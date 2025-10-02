@@ -225,7 +225,7 @@
     },
     "win": {
       "asarUnpack": "node_modules/spellchecker/vendor/hunspell_dictionaries",
-      "publisherName": "Oxen Labs",
+      "legalTrademarks": "Oxen Labs",
       "verifyUpdateCodeSignature": false,
       "icon": "build/icon.ico",
       "target": [
